@@ -1,0 +1,21 @@
+{
+  "numOfBitmaps": 1,
+  "list" :
+  [
+	{
+		"ID" : "gameOver",
+		"path" : "Resources/Decorations/gameOver.jpg",
+		"numberOfBoxes" : 1,
+		"ListBoxes" : 
+		[
+			
+			{
+				"x" : 0,
+				"y" : 0,
+				"w" : 338,
+				"h" : 85
+			}
+		]
+	}
+  ]
+}

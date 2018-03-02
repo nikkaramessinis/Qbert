@@ -1,0 +1,26 @@
+{
+  "numOfBitmaps": 1,
+  "list" :
+  [
+	{
+		"ID" : "snakeBall",
+		"path" : "Resources/SnakeBall.png",
+		"numberOfBoxes" : 2,
+		"ListBoxes" : 
+		[
+			{
+				"x" : 0,
+				"y" : 0,
+				"w" : 38,
+				"h" : 32
+			},
+			{
+				"x" : 38,
+				"y" : 0,
+				"w" : 40,
+				"h" : 32
+			}
+		]
+	}
+  ]
+}

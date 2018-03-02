@@ -1,0 +1,21 @@
+{
+  "numOfBitmaps": 1,
+  "list" :
+  [
+	{
+		"ID" : "logo",
+		"path" : "Resources/logo.png",
+		"numberOfBoxes" : 1,
+		"ListBoxes" : 
+		[
+			
+			{
+				"x" : 0,
+				"y" : 0,
+				"w" : 400,
+				"h" : 400
+			}
+		]
+	}
+  ]
+}

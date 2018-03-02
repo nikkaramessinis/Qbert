@@ -1,0 +1,20 @@
+{
+  "numOfBitmaps": 1,
+  "list" :
+  [
+	{
+		"ID" : "round",
+		"path" : "Resources/Decorations/round.png",
+		"numberOfBoxes" : 1,
+		"ListBoxes" : 
+		[
+			{
+				"x" : 0,
+				"y" : 0,
+				"w" : 97,
+				"h" : 25
+			}
+		]
+	}
+  ]
+}

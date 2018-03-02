@@ -1,0 +1,27 @@
+{
+  "numOfBitmaps": 1,
+  "list" :
+  [
+	{
+		"ID" : "redBall",
+		"path" : "Resources/enemy16828.png",
+		"numberOfBoxes" : 2,
+		"ListBoxes" : 
+		[
+			{
+				"x" : 0,
+				"y" : 0,
+				"w" : 36,
+				"h" : 28
+			},
+			{
+				"x" : 38,
+				"y" : 0,
+				"w" : 36,
+				"h" : 28
+			}
+
+		]
+	}
+  ]
+}

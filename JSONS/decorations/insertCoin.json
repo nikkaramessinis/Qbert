@@ -1,0 +1,21 @@
+{
+  "numOfBitmaps": 1,
+  "list" :
+  [
+	{
+		"ID" : "insertCoin",
+		"path" : "Resources/Decorations/insertCoin.jpg",
+		"numberOfBoxes" : 1,
+		"ListBoxes" : 
+		[
+			
+			{
+				"x" : 0,
+				"y" : 0,
+				"w" : 400,
+				"h" : 97
+			}
+		]
+	}
+  ]
+}
